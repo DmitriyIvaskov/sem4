@@ -15,7 +15,7 @@ Console.WriteLine("Ведите Число");
 bool isNumber = int.TryParse(Console.ReadLine(), out int result);
 if (isNumber)
 {
-    int count = 1;
+    int count = 0;
     while (result > 0)
     {   
         result /= 10;
