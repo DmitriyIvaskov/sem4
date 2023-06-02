@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int size = 8;
+int[] array = new int[size]; //Массив из 8 элементов, со значением в 8 нулей! гужно присвоить рандом от 0 до 1го
+
+for (int i = 0; i < size; i++)
+{
+    array[i] = new Random().Next(0, 2); // или можно так array[i] = new Random().Next(2); - типо счет идет от нуля и будут число только 0 и 1
+    //Console.Write(array[i] + " "); - можно написать так и он выдаст массив из чисел 0 1 в строку, но это способ для лохов, настоящие пацаны делают так:
+}
+Console.WriteLine($"Массив: [ {String.Join("; ",array)} ]");
