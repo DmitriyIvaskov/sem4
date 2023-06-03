@@ -1,0 +1,15 @@
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex25\obj\Debug\net6.0\Ex25.csproj.AssemblyReference.cache
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex25\obj\Debug\net6.0\Ex25.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex25\obj\Debug\net6.0\Ex25.AssemblyInfoInputs.cache
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex25\obj\Debug\net6.0\Ex25.AssemblyInfo.cs
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex25\obj\Debug\net6.0\Ex25.csproj.CoreCompileInputs.cache
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex25\bin\Debug\net6.0\Ex25.exe
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex25\bin\Debug\net6.0\Ex25.deps.json
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex25\bin\Debug\net6.0\Ex25.runtimeconfig.json
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex25\bin\Debug\net6.0\Ex25.dll
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex25\bin\Debug\net6.0\Ex25.pdb
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex25\obj\Debug\net6.0\Ex25.dll
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex25\obj\Debug\net6.0\refint\Ex25.dll
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex25\obj\Debug\net6.0\Ex25.pdb
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex25\obj\Debug\net6.0\Ex25.genruntimeconfig.cache
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex25\obj\Debug\net6.0\ref\Ex25.dll
