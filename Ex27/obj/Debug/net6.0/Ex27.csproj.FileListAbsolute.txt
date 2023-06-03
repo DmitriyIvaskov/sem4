@@ -1,0 +1,15 @@
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex27\obj\Debug\net6.0\Ex27.csproj.AssemblyReference.cache
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex27\obj\Debug\net6.0\Ex27.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex27\obj\Debug\net6.0\Ex27.AssemblyInfoInputs.cache
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex27\obj\Debug\net6.0\Ex27.AssemblyInfo.cs
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex27\obj\Debug\net6.0\Ex27.csproj.CoreCompileInputs.cache
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex27\bin\Debug\net6.0\Ex27.exe
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex27\bin\Debug\net6.0\Ex27.deps.json
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex27\bin\Debug\net6.0\Ex27.runtimeconfig.json
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex27\bin\Debug\net6.0\Ex27.dll
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex27\bin\Debug\net6.0\Ex27.pdb
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex27\obj\Debug\net6.0\Ex27.dll
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex27\obj\Debug\net6.0\refint\Ex27.dll
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex27\obj\Debug\net6.0\Ex27.pdb
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex27\obj\Debug\net6.0\Ex27.genruntimeconfig.cache
+D:\00_GeekBrains\Урок 4. Функции\Sem4\Ex27\obj\Debug\net6.0\ref\Ex27.dll
